@@ -18,7 +18,7 @@ const options = {
         }, 
     };
 
-export const topicsSlice = createSlice(options);S
+export const topicsSlice = createSlice(options);
 export const { addTopic } = topicsSlice.actions;
 export const selectTopics = (state) => state.topics.topics;
 export default topicsSlice.reducer;
