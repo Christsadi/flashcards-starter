@@ -75,4 +75,4 @@ I will revisit and add more to this project as i progress in my course.
 
 ## Contact
 
-Created by [@Christ Sadi) - feel free to contact me!
+Created by [@Christ Sadi] - feel free to contact me!
