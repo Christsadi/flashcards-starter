@@ -59,7 +59,7 @@ This project is open source. Personal logos and images should not be used withou
 ## Setup
 
 To navigate to the website use the following link:
-[Flashcard web app](christsadi.github.io/jammming-jolllling)
+[Flashcard web app](https://christsadi.github.io/flashcards-starter/)
 
 You will find all the files and images which make up this website on this repository.
 
